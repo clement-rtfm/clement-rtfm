@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![RPMNOISE's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-rtfm)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **clement-rtfm/clement-rtfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
