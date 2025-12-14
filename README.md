@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Omarchy](https://img.shields.io/badge/Omarchy-000000?logo=linux&logoColor=white)](https://github.com/Omarchy)
+
 [![RPMNOISE's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-rtfm)](https://github.com/anuraghazra/github-readme-stats)
 
 
